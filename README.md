@@ -1,6 +1,6 @@
 # score_team
 
-A new Flutter project.
+The Team Counter App is a simple, intuitive Flutter application designed to track and manage scores for two competing teams. Each team has its own score display, and users can add points incrementally by 1, 2, or 3 points using dedicated buttons. The app also includes a reset button that resets both teams' scores to zero, making it ideal for games, sports, quizzes, or any scenario where real-time score tracking is needed.
 
 ## Getting Started
 
